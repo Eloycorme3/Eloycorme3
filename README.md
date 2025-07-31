@@ -44,7 +44,7 @@ Me dedico a programar, romper cosas, arreglarlas y aprender en el camino. No bus
 
 <p style="display: flex; justify-content: space-between">
   <img src="https://github-readme-stats.vercel.app/api?username=Eloycorme3&show_icons=true&theme=radical" />
-  <br>
+  <br><br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eloycorme3&theme=radical" />
 </p>
 
